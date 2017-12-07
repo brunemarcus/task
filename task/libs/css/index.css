@@ -1,0 +1,94 @@
+body, html {
+	font-family: Arial;
+}
+
+h1,h2,h3,h4,h5 {
+	font-family: Arial;
+	text-transform: uppercase;
+}
+button {
+	font-family: Arial;
+	background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 7px 32px;
+    border-radius: 4px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+.btn {
+    font-family: Arial;
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 7px 32px;
+    border-radius: 4px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+/* Menu */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+.active {
+    background-color: #4CAF50;
+}
+/* Table */
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 98%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+/* End Table */
+
+/* End Menu */
+#tit-task {
+    color: #343434;
+    margin-top: 5%;
+    margin-left: 2%;
+}
+
+.row {
+    width: 98%;
+}
+
+#secRegistro {
+    padding: 2%;
+}
