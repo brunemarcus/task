@@ -1,0 +1,16 @@
+.login {
+	top: 70px;
+	position: relative;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}	
+
+#home-page { padding-top: 30px!important; }
+
+.required {color:#FA0A0A;}
+
+nav ul li a { cursor: pointer; }

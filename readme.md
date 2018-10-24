@@ -1,0 +1,1 @@
+Setar as configurações do banco no customer.php e login.php
